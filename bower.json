@@ -18,7 +18,7 @@
     "polymer": "polymer/polymer#^1.4.0",
     "paper-input": "polymerelements/paper-input#^1.1.11",
     "paper-button": "polymerelements/paper-button#^1.0.12",
-    "vaadin-grid": "#fix/382",
+    "vaadin-grid": "^1.1.0",
     "vaadin-date-picker": "^1.0.0"
   },
   "devDependencies": {
